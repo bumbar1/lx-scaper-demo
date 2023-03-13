@@ -1,0 +1,15 @@
+.content {
+    display: block;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
